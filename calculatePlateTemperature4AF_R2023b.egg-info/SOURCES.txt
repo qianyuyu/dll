@@ -1,0 +1,7 @@
+setup.py
+calculatePlateTemperature4AF/__init__.py
+calculatePlateTemperature4AF/calculatePlateTemperature4AF.ctf
+calculatePlateTemperature4AF_R2023b.egg-info/PKG-INFO
+calculatePlateTemperature4AF_R2023b.egg-info/SOURCES.txt
+calculatePlateTemperature4AF_R2023b.egg-info/dependency_links.txt
+calculatePlateTemperature4AF_R2023b.egg-info/top_level.txt

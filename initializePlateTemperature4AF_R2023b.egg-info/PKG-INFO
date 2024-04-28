@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: initializePlateTemperature4AF-R2023b
+Version: 23.2
+Summary: A Python interface to initializePlateTemperature4AF
+Home-page: https://www.mathworks.com/
+Author: MathWorks
+Platform: Linux
+Platform: Windows
+Platform: macOS
